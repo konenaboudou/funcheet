@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "997719804157",
+    "project_id": "flutterflowibtest",
+    "storage_bucket": "flutterflowibtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997719804157:android:ee2b7748697c05cac15694",
+        "android_client_info": {
+          "package_name": "comfuninnov.flutterflowibtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997719804157-i68f1p8q8cvrrgqt5u7akngaeb6ber59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comfuninnov.flutterflowibtest",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "997719804157-u0m9vh3aieosfkvbi4jtn31vdi23m7ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHkRMhNqWih940itRW8Mf5bzHyNXrvi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997719804157-u0m9vh3aieosfkvbi4jtn31vdi23m7ri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997719804157-elp7siv0kdoossttg8g6j7sj3re7c5u8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "comfuninnov.flutterflowibtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
